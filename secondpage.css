@@ -3,11 +3,11 @@
 .monospace {
     font-family: "font-family: 'Roboto', sans-serif";
   }
-  .impact {
+  p.impact {
     font-family: Impact, Charcoal, sans-serif;
   }
   body {
-    background-image: url('bfart.jpg');
+    background-image: url('a22.jpg');
     background-attachment: fixed;
     -webkit-background-size: cover;
       -moz-background-size: cover;
@@ -15,7 +15,7 @@
       background-size: cover;
     }
     body {
-      background-image: url('bfart.jpg');
+      background-image: url('a22.jpg');
       background-attachment: fixed;
       -webkit-background-size: cover;
         -moz-background-size: cover;
